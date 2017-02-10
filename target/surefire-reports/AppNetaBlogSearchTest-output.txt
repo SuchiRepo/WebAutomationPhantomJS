@@ -1,0 +1,13 @@
+Feb 09, 2017 1:25:38 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: C:\Suchi\workspace\AutomationProject\phantomjs-2.1.1-windows\bin\phantomjs.exe
+Feb 09, 2017 1:25:38 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 61859
+Feb 09, 2017 1:25:38 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=61859, --webdriver-logfile=C:\Suchi\workspace\AutomationProject\HeadLessAutomation\phantomjsdriver.log]
+Feb 09, 2017 1:25:38 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+[INFO  - 2017-02-09T19:25:40.058Z] GhostDriver - Main - running on port 61859
+[INFO  - 2017-02-09T19:25:40.726Z] Session [8afad610-eefd-11e6-ae31-5be89b874e76] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-09T19:25:40.726Z] Session [8afad610-eefd-11e6-ae31-5be89b874e76] - page.customHeaders:  - {}
+[INFO  - 2017-02-09T19:25:40.726Z] Session [8afad610-eefd-11e6-ae31-5be89b874e76] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-09T19:25:40.727Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8afad610-eefd-11e6-ae31-5be89b874e76
